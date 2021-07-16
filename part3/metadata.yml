@@ -1,0 +1,14 @@
+---
+:id: 49960221
+:submitters:
+- :name: Nethen Mou
+  :email: nmou001@berkeley.edu
+- :name: Noah Gundotra
+  :email: noah.gundotra@berkeley.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-10-17 20:09:17.246496000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-10-17 13:09:17.246496000 Z
+:status: processed
+:score: 61.4035
